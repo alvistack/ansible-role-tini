@@ -16,6 +16,6 @@
 
 _tini_download:
   v0.18.0:
-    url: "https://github.com/krallin/tini/releases/download/v0.18.0/tini-amd64"
-    dest: "/var/cache/ansible/tini-amd64-v0.18.0"
+    url: "https://github.com/krallin/tini/releases/download/v0.18.0/tini-static-amd64"
+    dest: "/var/cache/ansible/tini-static-amd64-v0.18.0"
     checksum: "sha1:f5ecc50719e8f3c94b3d36c38349002e10f2032f"
