@@ -1,6 +1,6 @@
 # Ansible Role for tini
 
-[![Travis](https://img.shields.io/travis/alvistack/ansible-role-tini.svg)](https://travis-ci.org/alvistack/ansible-role-tini)
+[![Travis](https://img.shields.io/travis/com/alvistack/ansible-role-tini.svg)](https://travis-ci.com/alvistack/ansible-role-tini)
 [![GitHub release](https://img.shields.io/github/release/alvistack/ansible-role-tini.svg)](https://github.com/alvistack/ansible-role-tini)
 [![GitHub license](https://img.shields.io/github/license/alvistack/ansible-role-tini.svg)](https://github.com/alvistack/ansible-role-tini/blob/master/LICENSE)
 [![Ansible Role](https://img.shields.io/badge/galaxy-alvistack.tini-blue.svg)](https://galaxy.ansible.com/alvistack/tini)
