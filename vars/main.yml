@@ -15,6 +15,10 @@
 # limitations under the License.
 
 _tini_download:
+  v0.19.0:
+    url: "https://github.com/krallin/tini/releases/download/v0.19.0/tini-static-amd64"
+    dest: "{{ ansible_user_dir }}/.ansible/tmp/tini-static-amd64-v0.19.0"
+    checksum: "sha1:ffaeece323978760822de2cd2cf1b0913b667b13"
   v0.18.0:
     url: "https://github.com/krallin/tini/releases/download/v0.18.0/tini-static-amd64"
     dest: "{{ ansible_user_dir }}/.ansible/tmp/tini-static-amd64-v0.18.0"
